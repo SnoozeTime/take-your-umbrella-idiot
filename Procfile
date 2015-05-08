@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/umbrella.jar clojure.main -m core.web
